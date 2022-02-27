@@ -4,7 +4,7 @@
 
 ## 💻 Repository Summary
 
-An app that searches for places to camp, listing prices and whether a motorhome can be used, was the proposal. You can see the final result [clicking here](TEST).
+An app that searches for places to camp, listing prices and whether a motorhome can be used, was the proposal. You can see the final result [clicking here](https://github.com/jhonywalkeer/camping-finder/blob/main/readme/assets/screenshots/camp-finder.png).
 
 ## 🛠 Technologies
 
